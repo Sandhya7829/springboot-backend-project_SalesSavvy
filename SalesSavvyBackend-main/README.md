@@ -60,3 +60,5 @@ It provides APIs for managing products, users, and orders, enabling core e-comme
 
 ## 👤 Author
 Sandhya K
+
+This was all about my Spring Boot backend project
